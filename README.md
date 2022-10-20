@@ -52,7 +52,7 @@ contract發布後[EtherScan]([url](https://goerli.etherscan.io/address/0xa4c828d
 
 用safeBatchTransferFrom來直接轉兩種NFT給其他帳號試試看  
 <img width="317" alt="image" src="https://user-images.githubusercontent.com/24216536/196909123-71290891-c154-4fc5-b4e6-d5a4d242f96c.png">.   
-<img width="411" alt="image" src="https://user-images.githubusercontent.com/24216536/196909035-9cf52083-6ddf-4a33-869b-e22a46f18830.png">.  
+
 成功出現在帳號2的opensea collection中.可以看到有兩個擁有者, 也就是帳號1跟帳號2啦~~~   
 <img width="721" alt="image" src="https://user-images.githubusercontent.com/24216536/196909767-6cbf9fb5-a54d-4254-a960-f94fbe09da44.png">.  
 <img width="1096" alt="image" src="https://user-images.githubusercontent.com/24216536/196910147-f1e338f1-026f-44ac-a870-9749fb559830.png">.  
