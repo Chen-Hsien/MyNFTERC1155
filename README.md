@@ -63,8 +63,11 @@ contract發布後[EtherScan]([url](https://goerli.etherscan.io/address/0xa4c828d
 
 ERC1155的部分就練習到這邊嚕
 
-
-
+--
+解析一下openzeppelin 上不同版本的ERC1155有哪些功能差異
+基本款ERC1155
+升級版
+ERC1155PresetMinterPauser
 
 
 
