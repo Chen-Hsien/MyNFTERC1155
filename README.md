@@ -68,6 +68,11 @@ ERC1155的部分就練習到這邊嚕
 基本款ERC1155
 升級版
 ERC1155PresetMinterPauser
+基於
+ERC1155PresetMinterPauser1155 加上"ERC1155Burnable.sol","ERC1155Pausable.sol"
+其中功能包含暫停所有Token transfer的功能, 以及允許用戶Burn Token的功能, 以及Batch mint
+
+
 
 
 
